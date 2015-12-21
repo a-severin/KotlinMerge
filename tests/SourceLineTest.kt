@@ -1,3 +1,4 @@
+import com.vvv.merge.SourceLine
 import org.junit.Assert.*
 import org.junit.Test
 

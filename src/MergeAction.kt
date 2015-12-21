@@ -1,3 +1,5 @@
+package com.vvv.merge;
+
 import java.util.*
 
 class MergeAction(val mergePosition : Int){
